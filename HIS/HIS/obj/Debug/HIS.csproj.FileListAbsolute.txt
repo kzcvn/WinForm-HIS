@@ -1,0 +1,356 @@
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\HIS.exe.config
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\HIS.exe
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\HIS.pdb
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.csproj.AssemblyReference.cache
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.Login.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.home.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.Properties.Resources.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.csproj.GenerateResource.cache
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.csproj.CoreCompileInputs.cache
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.exe
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.pdb
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.Regis.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.DW.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.Pha.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\EnvDTE.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\stdole.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.csproj.CopyComplete
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\RdlCompile.cache
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\RdlCompile.compiled
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.R_挂号重打.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.R_门急诊挂号.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.R_快速建卡.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.R_医生排班.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.D_医生工作台.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.R_挂号单打印.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.D_药品选择.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.D_西药用法选择.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.D_西药处方打印.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.D_检验项目选择.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.D_检验申请单打印.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.R_诊疗卡管理.resources
+C:\Users\Bin\Desktop\3.30周三医院信息系统\HIS\HIS\obj\Debug\HIS.D_病人基本信息修改.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\HIS.exe.config
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\HIS.exe
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\HIS.pdb
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\EnvDTE.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\stdole.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.csproj.AssemblyReference.cache
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.D_医生工作台.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.D_检验申请单打印.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.D_检验项目选择.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.D_药品选择.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.D_西药处方打印.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.D_西药用法选择.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.Login.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.Home.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.R_挂号单打印.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.R_诊疗卡管理.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.R_门急诊挂号.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.R_快速建卡.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.R_医生排班.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.Regis.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.DW.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.Pha.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.Properties.Resources.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.R_挂号重打.resources
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.csproj.GenerateResource.cache
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\RdlCompile.cache
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\RdlCompile.compiled
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.csproj.CoreCompileInputs.cache
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.csproj.CopyComplete
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.exe
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.pdb
+C:\Users\Bin\Desktop\医院信息系统\HIS\HIS\obj\Debug\HIS.R_病人基本信息修改.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.csproj.AssemblyReference.cache
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.D_医生工作台.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.D_检验申请单打印.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.D_检验项目选择.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.R_病人基本信息修改.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.D_药品选择.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.D_西药处方打印.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.D_西药用法选择.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.Login.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.Home.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.R_挂号单打印.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.R_诊疗卡管理.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.R_门急诊挂号.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.R_快速建卡.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.R_医生排班.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.Regis.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.DW.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.Pha.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.Properties.Resources.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.R_挂号重打.resources
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.csproj.GenerateResource.cache
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\RdlCompile.cache
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\RdlCompile.compiled
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.csproj.CoreCompileInputs.cache
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.exe
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.pdb
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\HIS.exe.config
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\HIS.exe
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\HIS.pdb
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\EnvDTE.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\stdole.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bin\Desktop\HIS\HIS\obj\Debug\HIS.csproj.CopyComplete
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\HIS.exe.config
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\HIS.exe
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\HIS.pdb
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\EnvDTE.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\stdole.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\Microsoft.MSXML.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.csproj.AssemblyReference.cache
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.D_医生工作台.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.D_检验申请单打印.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.D_检验项目选择.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.R_病人基本信息修改.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.D_药品选择.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.D_西药处方打印.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.D_西药用法选择.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.Login.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.Home.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.R_挂号单打印.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.R_诊疗卡管理.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.R_门急诊挂号.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.R_快速建卡.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.R_医生排班.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.Regis.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.DW.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.Pha.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.Properties.Resources.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.R_挂号重打.resources
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.csproj.GenerateResource.cache
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\RdlCompile.cache
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\RdlCompile.compiled
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.csproj.CoreCompileInputs.cache
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.csproj.CopyComplete
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.exe
+E:\Git_project\Winform HIS\HIS\HIS\obj\Debug\HIS.pdb

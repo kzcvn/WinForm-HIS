@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="HISConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="HISConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.HIS.Properties.Settings.GlobalReference.Default.HISConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="挂号单打印" msprop:Generator_TableClassName="挂号单打印DataTable" msprop:Generator_TableVarName="table挂号单打印" msprop:Generator_RowChangedName="挂号单打印RowChanged" msprop:Generator_TablePropName="挂号单打印" msprop:Generator_RowDeletingName="挂号单打印RowDeleting" msprop:Generator_RowChangingName="挂号单打印RowChanging" msprop:Generator_RowEvHandlerName="挂号单打印RowChangeEventHandler" msprop:Generator_RowDeletedName="挂号单打印RowDeleted" msprop:Generator_RowClassName="挂号单打印Row" msprop:Generator_UserTableName="挂号单打印" msprop:Generator_RowEvArgName="挂号单打印RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="挂号单号" msprop:Generator_ColumnVarNameInTable="column挂号单号" msprop:Generator_ColumnPropNameInRow="挂号单号" msprop:Generator_ColumnPropNameInTable="挂号单号Column" msprop:Generator_UserColumnName="挂号单号" type="xs:string" minOccurs="0" />
+              <xs:element name="姓名" msprop:Generator_ColumnVarNameInTable="column姓名" msprop:Generator_ColumnPropNameInRow="姓名" msprop:Generator_ColumnPropNameInTable="姓名Column" msprop:Generator_UserColumnName="姓名" type="xs:string" minOccurs="0" />
+              <xs:element name="性别" msprop:Generator_ColumnVarNameInTable="column性别" msprop:Generator_ColumnPropNameInRow="性别" msprop:Generator_ColumnPropNameInTable="性别Column" msprop:Generator_UserColumnName="性别" type="xs:string" minOccurs="0" />
+              <xs:element name="出生日期" msprop:Generator_ColumnVarNameInTable="column出生日期" msprop:Generator_ColumnPropNameInRow="出生日期" msprop:Generator_ColumnPropNameInTable="出生日期Column" msprop:Generator_UserColumnName="出生日期" type="xs:string" minOccurs="0" />
+              <xs:element name="挂号科室" msprop:Generator_ColumnVarNameInTable="column挂号科室" msprop:Generator_ColumnPropNameInRow="挂号科室" msprop:Generator_ColumnPropNameInTable="挂号科室Column" msprop:Generator_UserColumnName="挂号科室" type="xs:string" minOccurs="0" />
+              <xs:element name="号别" msprop:Generator_ColumnVarNameInTable="column号别" msprop:Generator_ColumnPropNameInRow="号别" msprop:Generator_ColumnPropNameInTable="号别Column" msprop:Generator_UserColumnName="号别" type="xs:string" minOccurs="0" />
+              <xs:element name="医生" msprop:Generator_ColumnVarNameInTable="column医生" msprop:Generator_ColumnPropNameInRow="医生" msprop:Generator_ColumnPropNameInTable="医生Column" msprop:Generator_UserColumnName="医生" type="xs:string" minOccurs="0" />
+              <xs:element name="就诊日期" msprop:Generator_ColumnVarNameInTable="column就诊日期" msprop:Generator_ColumnPropNameInRow="就诊日期" msprop:Generator_ColumnPropNameInTable="就诊日期Column" msprop:Generator_UserColumnName="就诊日期" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="时间段" msprop:Generator_ColumnVarNameInTable="column时间段" msprop:Generator_ColumnPropNameInRow="时间段" msprop:Generator_ColumnPropNameInTable="时间段Column" msprop:Generator_UserColumnName="时间段" type="xs:string" minOccurs="0" />
+              <xs:element name="挂号费" msprop:Generator_ColumnVarNameInTable="column挂号费" msprop:Generator_ColumnPropNameInRow="挂号费" msprop:Generator_ColumnPropNameInTable="挂号费Column" msprop:Generator_UserColumnName="挂号费" type="xs:string" minOccurs="0" />
+              <xs:element name="挂号时间" msprop:Generator_ColumnVarNameInTable="column挂号时间" msprop:Generator_ColumnPropNameInRow="挂号时间" msprop:Generator_ColumnPropNameInTable="挂号时间Column" msprop:Generator_UserColumnName="挂号时间" type="xs:string" minOccurs="0" />
+              <xs:element name="状态" msprop:Generator_ColumnVarNameInTable="column状态" msprop:Generator_ColumnPropNameInRow="状态" msprop:Generator_ColumnPropNameInTable="状态Column" msprop:Generator_UserColumnName="状态" type="xs:string" minOccurs="0" />
+              <xs:element name="序号" msprop:Generator_ColumnVarNameInTable="column序号" msprop:Generator_ColumnPropNameInRow="序号" msprop:Generator_ColumnPropNameInTable="序号Column" msprop:Generator_UserColumnName="序号" type="xs:string" minOccurs="0" />
+              <xs:element name="年龄" msprop:Generator_ColumnVarNameInTable="column年龄" msprop:Generator_ColumnPropNameInRow="年龄" msprop:Generator_ColumnPropNameInTable="年龄Column" msprop:Generator_UserColumnName="年龄" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="西药处方打印" msprop:Generator_TableClassName="西药处方打印DataTable" msprop:Generator_TableVarName="table西药处方打印" msprop:Generator_TablePropName="西药处方打印" msprop:Generator_RowDeletingName="西药处方打印RowDeleting" msprop:Generator_RowChangingName="西药处方打印RowChanging" msprop:Generator_RowEvHandlerName="西药处方打印RowChangeEventHandler" msprop:Generator_RowDeletedName="西药处方打印RowDeleted" msprop:Generator_UserTableName="西药处方打印" msprop:Generator_RowChangedName="西药处方打印RowChanged" msprop:Generator_RowEvArgName="西药处方打印RowChangeEvent" msprop:Generator_RowClassName="西药处方打印Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="挂号单号" msprop:Generator_ColumnVarNameInTable="column挂号单号" msprop:Generator_ColumnPropNameInRow="挂号单号" msprop:Generator_ColumnPropNameInTable="挂号单号Column" msprop:Generator_UserColumnName="挂号单号" type="xs:string" minOccurs="0" />
+              <xs:element name="姓名" msprop:Generator_ColumnVarNameInTable="column姓名" msprop:Generator_ColumnPropNameInRow="姓名" msprop:Generator_ColumnPropNameInTable="姓名Column" msprop:Generator_UserColumnName="姓名" type="xs:string" minOccurs="0" />
+              <xs:element name="性别" msprop:Generator_ColumnVarNameInTable="column性别" msprop:Generator_ColumnPropNameInRow="性别" msprop:Generator_ColumnPropNameInTable="性别Column" msprop:Generator_UserColumnName="性别" type="xs:string" minOccurs="0" />
+              <xs:element name="挂号科室" msprop:Generator_ColumnVarNameInTable="column挂号科室" msprop:Generator_ColumnPropNameInRow="挂号科室" msprop:Generator_ColumnPropNameInTable="挂号科室Column" msprop:Generator_UserColumnName="挂号科室" type="xs:string" minOccurs="0" />
+              <xs:element name="医生" msprop:Generator_ColumnVarNameInTable="column医生" msprop:Generator_ColumnPropNameInRow="医生" msprop:Generator_ColumnPropNameInTable="医生Column" msprop:Generator_UserColumnName="医生" type="xs:string" minOccurs="0" />
+              <xs:element name="就诊日期" msprop:Generator_ColumnVarNameInTable="column就诊日期" msprop:Generator_ColumnPropNameInRow="就诊日期" msprop:Generator_ColumnPropNameInTable="就诊日期Column" msprop:Generator_UserColumnName="就诊日期" type="xs:string" minOccurs="0" />
+              <xs:element name="诊断" msprop:Generator_ColumnVarNameInTable="column诊断" msprop:Generator_ColumnPropNameInRow="诊断" msprop:Generator_ColumnPropNameInTable="诊断Column" msprop:Generator_UserColumnName="诊断" type="xs:string" minOccurs="0" />
+              <xs:element name="处方信息" msprop:Generator_ColumnVarNameInTable="column处方信息" msprop:Generator_ColumnPropNameInRow="处方信息" msprop:Generator_ColumnPropNameInTable="处方信息Column" msprop:Generator_UserColumnName="处方信息" type="xs:string" minOccurs="0" />
+              <xs:element name="年龄" msprop:Generator_ColumnVarNameInTable="column年龄" msprop:Generator_ColumnPropNameInRow="年龄" msprop:Generator_ColumnPropNameInTable="年龄Column" msprop:Generator_UserColumnName="年龄" type="xs:string" minOccurs="0" />
+              <xs:element name="总金额" msprop:Generator_ColumnVarNameInTable="column总金额" msprop:Generator_ColumnPropNameInRow="总金额" msprop:Generator_ColumnPropNameInTable="总金额Column" msprop:Generator_UserColumnName="总金额" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="检验申请单打印" msprop:Generator_TableClassName="检验申请单打印DataTable" msprop:Generator_TableVarName="table检验申请单打印" msprop:Generator_RowChangedName="检验申请单打印RowChanged" msprop:Generator_TablePropName="检验申请单打印" msprop:Generator_RowDeletingName="检验申请单打印RowDeleting" msprop:Generator_RowChangingName="检验申请单打印RowChanging" msprop:Generator_RowEvHandlerName="检验申请单打印RowChangeEventHandler" msprop:Generator_RowDeletedName="检验申请单打印RowDeleted" msprop:Generator_RowClassName="检验申请单打印Row" msprop:Generator_UserTableName="检验申请单打印" msprop:Generator_RowEvArgName="检验申请单打印RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="姓名" msprop:Generator_ColumnVarNameInTable="column姓名" msprop:Generator_ColumnPropNameInRow="姓名" msprop:Generator_ColumnPropNameInTable="姓名Column" msprop:Generator_UserColumnName="姓名" type="xs:string" minOccurs="0" />
+              <xs:element name="性别" msprop:Generator_ColumnVarNameInTable="column性别" msprop:Generator_ColumnPropNameInRow="性别" msprop:Generator_ColumnPropNameInTable="性别Column" msprop:Generator_UserColumnName="性别" type="xs:string" minOccurs="0" />
+              <xs:element name="年龄" msprop:Generator_ColumnVarNameInTable="column年龄" msprop:Generator_ColumnPropNameInRow="年龄" msprop:Generator_ColumnPropNameInTable="年龄Column" msprop:Generator_UserColumnName="年龄" type="xs:string" minOccurs="0" />
+              <xs:element name="申请单号" msprop:Generator_ColumnVarNameInTable="column申请单号" msprop:Generator_ColumnPropNameInRow="申请单号" msprop:Generator_ColumnPropNameInTable="申请单号Column" msprop:Generator_UserColumnName="申请单号" type="xs:string" minOccurs="0" />
+              <xs:element name="诊断" msprop:Generator_ColumnVarNameInTable="column诊断" msprop:Generator_ColumnPropNameInRow="诊断" msprop:Generator_ColumnPropNameInTable="诊断Column" msprop:Generator_UserColumnName="诊断" type="xs:string" minOccurs="0" />
+              <xs:element name="申请医生" msprop:Generator_ColumnVarNameInTable="column申请医生" msprop:Generator_ColumnPropNameInRow="申请医生" msprop:Generator_ColumnPropNameInTable="申请医生Column" msprop:Generator_UserColumnName="申请医生" type="xs:string" minOccurs="0" />
+              <xs:element name="申请时间" msprop:Generator_ColumnVarNameInTable="column申请时间" msprop:Generator_ColumnPropNameInRow="申请时间" msprop:Generator_ColumnPropNameInTable="申请时间Column" msprop:Generator_UserColumnName="申请时间" type="xs:string" minOccurs="0" />
+              <xs:element name="检验项目" msprop:Generator_ColumnVarNameInTable="column检验项目" msprop:Generator_ColumnPropNameInRow="检验项目" msprop:Generator_ColumnPropNameInTable="检验项目Column" msprop:Generator_UserColumnName="检验项目" type="xs:string" minOccurs="0" />
+              <xs:element name="合计" msprop:Generator_ColumnVarNameInTable="column合计" msprop:Generator_ColumnPropNameInRow="合计" msprop:Generator_ColumnPropNameInTable="合计Column" msprop:Generator_UserColumnName="合计" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
